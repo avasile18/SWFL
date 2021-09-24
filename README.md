@@ -8,7 +8,7 @@ Melee combo
 Dodge/roll
 ![alt text](https://snipboard.io/u6hJqp.jpg)
 
-Real time computing for lightsaber's length upon actor collision
+Real time computing for lightsaber's length upon collision with actors
 ![alt text](https://snipboard.io/RCHwFa.jpg)
 
 Force push ability which works on actors
